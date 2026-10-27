@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gotify is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gotify.net/
+Gotify provides a simple, self-hosted server for sending and receiving messages via a REST API and WebSocket. It includes a web UI, client libraries, and mobile apps, enabling developers to integrate push notifications and messaging into their applications. The platform is open-source, supports user and application management, and offers documentation, SDKs, and a CLI for easy interaction.
+
+**Areas:** Messaging · OpenSource · SelfHosted · Notifications · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gotify.net/)
+- [Documentation](https://gotify.net/docs/)
+- [Getting started](https://gotify.net/docs/dev-setup)
+- [API reference](https://gotify.net/api-docs)
+- [Changelog](https://github.com/gotify/server/releases/latest)
+- [GitHub](https://github.com/gotify)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gotify/](https://apis.io/providers/gotify/).
